@@ -1,3 +1,7 @@
-https://in.docworkspace.com/d/sIFH3uaTHAfTT3MUG?sa=601.1074   
+# frontend/README.md
 
+# Frontend for Love Blog Website
 
+## Setup
+1. Install dependencies: `npm install`
+2. Run the application: `npm start`
