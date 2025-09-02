@@ -1,15 +1,20 @@
 {
-    "name": "love-blog-frontend",
-    "version": "1.0.0",
-    "main": "index.js",
-    "dependencies": {
-        "react": "^17.0.2",
-        "react-dom": "^17.0.2"
-    },
-    "scripts": {
-        "start": "react-scripts start",
-        "build": "react-scripts build",
-        "test": "react-scripts test",
-        "eject": "react-scripts eject"
-    }
+  "name": "virtual-pet-simulator",
+  "version": "1.0.0",
+  "description": "A virtual pet simulator where users can interact with and take care of their virtual pets.",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "build": "tsc",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "typescript": "^4.0.0",
+    "ts-node": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.0"
+  },
+  "author": "",
+  "license": "ISC"
 }
